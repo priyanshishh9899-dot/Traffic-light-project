@@ -38,4 +38,5 @@ Finally, when the counter reaches 5, it resets to 0, and the FSM transitions bac
 # Simulation 
  The design is simulated using Icarus Verilog, and waveforms can be viewed using GTKWave.
  ----------------------------
- <img width="538" height="371" alt="image" src="https://github.com/user-attachments/assets/bd611fbe-b55a-49ba-a9d9-e055be59f705" />
+ <img width="791" height="783" alt="saved-image-file_00000000e20c81f5a601421d4c2a02ff jpg" src="https://github.com/user-attachments/assets/f704d239-2b08-46e0-b1c3-a3cdfedd9ef3" />
+
